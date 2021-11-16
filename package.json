@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@types/node": "^8.0.25",
-    "aws-sdk": "^2.104.0",
+    "aws-sdk": "^2.814.0",
     "ejs-cli": "^2.0.0",
     "jasmine-data-provider": "^2.2.0",
     "node-sass": "^4.5.3",
