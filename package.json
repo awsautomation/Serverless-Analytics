@@ -22,7 +22,7 @@
     "aws-sdk": "^2.104.0",
     "ejs-cli": "^2.0.0",
     "jasmine-data-provider": "^2.2.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.0",
     "s3sync-cli": "^2.0.0",
     "serverless": "^1.20.2",
     "serverless-dynamodb-autoscaling": "^0.6.1",
